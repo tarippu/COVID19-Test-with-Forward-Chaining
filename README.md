@@ -1,4 +1,5 @@
 Sistem Pakar untuk Aplikasi Forward Chaining Covid-19 Test
+
 A.	Pengertian Forward Chaining
   Forward chaining merupakan salah satu metode dari sistem pakar yang mencari atau menelusuri solusi melalui masalah. Dengan kata lain metode ini melakukan pertimbangan dari fakta-fakta yang kemudian berujung pada sebuah kesimpulan yang berdasarkan pada fakta-fakta. Metode ini merupakan kebalikan dari metode backward chaining yang melakukan pencarian yang berawal dari hipotesis menuju ke fakta-fakta untuk mendukung hipotesis tersebut.
 	Pada metode forward chaining, penjelasan tidak terlalu terfalisitasi karena subgolas tidak diketahui secara ekspilisit sebelum kesimpulannya ditemukan. Forward chaining disebut juga bottom-up reasoning atau pertimbangan dari bawah ke atas, karena metode ini mempertimbangkan dari bukti-bukti pada level bawah, fakta-fakta, menuju ke kesimpulan pada level atas yang berdasarkan pada fakta-fakta.
